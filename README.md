@@ -47,7 +47,6 @@ AquaTrack propose une solution autonome, connectée et abordable.
 | Nom        | Rôle                        | Filière     |
 |------------|-----------------------------|-------------|
 | Teresa     | Prototype mobile & docs     | MSP - ENSPY |
-| [Camarade] | Hardware & capteurs Arduino | GETEL - ENSPY |
 
 ---
 
